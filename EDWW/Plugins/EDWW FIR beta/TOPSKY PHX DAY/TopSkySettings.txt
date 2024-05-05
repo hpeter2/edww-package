@@ -173,7 +173,6 @@ Vector_AHDG_Font=EuroScope
 Vector_FplSep_Font=EuroScope
 Vector_MinSep_Font=EuroScope
 Vector_QDM_Font=EuroScope
-Areas_Label_Font=EuroScope
 
 Track_HistoryDots=5
 Track_PredictionLine=0
